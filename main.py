@@ -1,2 +1,2 @@
-print("Hello  Miami Dade")#print 'Hello Miami Dade College!'
+print("Hello  MDC")#print 'Hello Miami Dade College!'
 #that's it! 
